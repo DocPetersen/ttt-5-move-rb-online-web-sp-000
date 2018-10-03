@@ -6,7 +6,7 @@ def display_board(board)
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
 
-def input_to_index(input)
+def input_to_index(new_input)
   space = input.to.i - 1 
   return space
 end
