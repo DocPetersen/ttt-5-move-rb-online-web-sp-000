@@ -1,5 +1,4 @@
 #!/usr/bin/env ruby
-#!/bin/bash
 
 require_relative '../lib/move.rb'
 
